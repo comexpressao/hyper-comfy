@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem "comfortable_mexican_sofa", "~> 2.0.0"
+
 gem 'hyperloop'
 
 gem 'will_paginate', '~> 3.1.0'
