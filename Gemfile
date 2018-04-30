@@ -29,7 +29,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem "comfortable_mexican_sofa", "~> 2.0.0"
 
-gem 'hyperloop'
+gem 'hyperloop', '~> 1.0.0.lap0'
+gem 'hyper-mesh', git: 'https://github.com/ruby-hyperloop/hyper-mesh.git', branch: 'sti_updates'
+gem "opal-jquery", git: "https://github.com/opal/opal-jquery.git", branch: "master"
 
 gem 'will_paginate', '~> 3.1.0'
 # Use ActiveStorage variant
